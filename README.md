@@ -36,7 +36,7 @@ play_game()
 
 ## How to Play
 
-1. Run the game and enter bhimesh
+1. Run the game and enter your name
 2. The computer thinks of a number between 1 and 100
 3. Make your guess
 4. Receive feedback on whether your guess is too high or too low
